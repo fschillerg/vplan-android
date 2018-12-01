@@ -1,0 +1,21 @@
+[package]
+name = "vplan"
+version = "0.1.0"
+authors = ["Jan Baudisch <dev@baudisch.xyz>"]
+
+[dependencies]
+android_logger = "0.6"
+chrono = "0.4"
+jni = "0.10"
+libvplan = { git = "https://github.com/fschillerg/libvplan.git", tag = "0.1.0", features = ["vendored"] }
+log = "0.4"
+log-panics = "2.0"
+tokio = "0.1"
+
+[lib]
+crate-type = ["dylib"]
+
+[profile.release]
+codegen-units = 1
+lto = true
+panic = "abort"

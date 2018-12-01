@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation,UnusedResources">
+
+    <string name="library_AboutLibraries_author" translatable="false">Friedrich Schiller Schule</string>
+    <string name="library_AboutLibraries_authorWebsite" translatable="false">https://fschillerg.de</string>
+    <string name="library_AboutLibraries_libraryName" translatable="false">libvplan</string>
+    <string name="library_AboutLibraries_libraryDescription" translatable="false">
+        <![CDATA[
+        An internally used library for utilizing a special case of document parsing.
+        <br /><br />
+        This library is used to fetch and parse timetable changes.
+        ]]>
+    </string>
+    <string name="library_AboutLibraries_libraryVersion" translatable="false">0.1.0</string>
+    <string name="library_AboutLibraries_libraryWebsite" translatable="false">https://github.com/fschillerg/libvplan</string>
+    <string name="library_AboutLibraries_licenseId" translatable="false">gpl_3_0</string>
+    <string name="library_AboutLibraries_isOpenSource" translatable="false">true</string>
+    <string name="library_AboutLibraries_repositoryLink" translatable="false">https://github.com/fschillerg/libvplan</string>
+
+</resources>

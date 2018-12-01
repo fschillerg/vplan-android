@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vplan</string>
+    <string name="settings">Einstellungen</string>
+    <string name="reload">Aktualisieren</string>
+    <string name="vplan">Vertretungsplan</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="save">Speichern</string>
+    <string name="credentials">Zugangsdaten</string>
+    <string name="fill_out">Beide Felder müssen aufgefüllt werden!</string>
+    <string name="cancel">Abbruch</string>
+    <string name="saved">Gespeichert</string>
+    <string name="request_error">Abfrage-Fehler</string>
+    <string name="request_error_detailed">Bei der Abrage für den Vertretungsplan ist ein Fehler aufgetreten. Eventuell solltest du die Verbindung zum Internet und deine Zugangsdaten überprüfen.</string>
+    <string name="ok">Ok</string>
+    <string name="no_connection">Keine Verbindung</string>
+    <string name="no_connection_detailed">Um diese App zu nutzen, ist eine Internetverbindung notwendig.</string>
+
+    <string name="about">Über</string>
+    <string name="source_code"><a href="https://github.com/fschillerg/vplan-android">Quelltext</a></string>
+    <string name="license"><a href="https://github.com/fschillerg/vplan-android">Source Code</a></string>
+    <string name="libraries">Bibliotheken</string>
+    <string name="show_libraries">Quelloffene Bibliotheken</string>
+    <string name="notification_title">Neuer Vertretungsplan</string>
+    <string name="notification_description">Neue Änderungen verfügbar</string>
+    <string name="notification_error_title">Error</string>
+    <string name="notification_error_description">Beim Abrufen sind Fehler aufgetreten!</string>
+    <string name="information">Informationen</string>
+    <string name="monday_short">Mo</string>
+    <string name="tuesday_short">Di</string>
+    <string name="wednesday_short">Mi</string>
+    <string name="thursday_short">Do</string>
+    <string name="friday_short">Fr</string>
+    <string name="lesson">Stunde</string>
+    <string name="subject">Fach</string>
+    <string name="teacher">Lehrer</string>
+    <string name="room">Raum</string>
+    <string name="info">Info</string>
+    <string name="form">Klasse</string>
+    <string name="add">Hinzufügen</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="grade">Klassenstufe</string>
+    <string name="added">Hinzugefügt</string>
+    <string name="add_form">Klasse hinzufügen</string>
+    <string name="remove">Entfernen</string>
+    <string name="custom">Benutzerdefiniert</string>
+    <string name="custom_no_empty">Bitte eine Klasse eingeben!</string>
+    <string name="settings_credentials_description">Aktualisiere deine Zugangsdaten</string>
+    <string name="settings_notifications_description">Benachrichtigungen einrichten</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="add_teacher">Lehrer hinzufügen</string>
+    <string name="filters_list_description">Filter, für die du Benachrichtigungen erhälst</string>
+    <string name="teacher_no_empty">Bitte einen Namen eingeben!</string>
+</resources>

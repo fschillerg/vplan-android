@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="grades">
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="formsSekI">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="formsSekII">
+
+        <item>DE1</item>
+        <item>DE2</item>
+        <item>DE3</item>
+
+        <item>de1</item>
+        <item>de2</item>
+        <item>de3</item>
+
+        <item>MA1</item>
+        <item>MA2</item>
+        <item>MA3</item>
+
+        <item>ma1</item>
+        <item>ma2</item>
+        <item>ma3</item>
+
+        <item>EN1</item>
+        <item>EN2</item>
+        <item>EN3</item>
+
+        <item>en1</item>
+        <item>en2</item>
+        <item>en3</item>
+
+        <item>GE1</item>
+        <item>GE2</item>
+
+        <item>ge1</item>
+        <item>ge2</item>
+        <item>ge3</item>
+
+        <item>PH1</item>
+        <item>PH2</item>
+
+        <item>ph1</item>
+        <item>ph2</item>
+        <item>ph3</item>
+
+        <item>KU1</item>
+        <item>KU2</item>
+
+        <item>en1</item>
+        <item>en2</item>
+        <item>en3</item>
+
+        <item>BIO1</item>
+        <item>BIO2</item>
+
+        <item>bio1</item>
+        <item>bio2</item>
+        <item>bio3</item>
+
+        <item>ch1</item>
+        <item>ch2</item>
+        <item>ch3</item>
+
+        <item>eth1</item>
+        <item>eth2</item>
+        <item>eth3</item>
+
+        <item>fr1</item>
+        <item>fr2</item>
+        <item>fr3</item>
+
+        <item>geo1</item>
+        <item>geo2</item>
+        <item>geo3</item>
+
+        <item>grw1</item>
+        <item>grw2</item>
+        <item>grw3</item>
+
+        <item>la1</item>
+        <item>la2</item>
+        <item>la3</item>
+
+        <item>mu1</item>
+        <item>mu2</item>
+        <item>mu3</item>
+
+    </string-array>
+
+</resources>
